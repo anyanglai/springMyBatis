@@ -6,7 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e737f18-f63c-4706-9c63-d0c97d68ece0" name="Default Changelist" comment="">
+    <list default="true" id="3e737f18-f63c-4706-9c63-d0c97d68ece0" name="Default Changelist" comment="完成了订单控制器的编写.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/TestController2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,7 +36,29 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/controller/BillController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/controller/TestController2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -85,7 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/dao/RoleMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bdqn/response/CommonReturnType.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bdqn/controller/testController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bdqn/service/ProviderService.java" />
@@ -136,6 +158,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/bdqn/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bdqn/controller/ProviderController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/userView.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bdqn/controller/BillController.java" />
       </list>
     </option>
   </component>
@@ -166,8 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,10 +236,22 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="bdqn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springMyBatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springMyBatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="bdqn" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -655,6 +688,7 @@
       <workItem from="1568191008134" duration="5724000" />
       <workItem from="1568248127840" duration="599000" />
       <workItem from="1568613367399" duration="2964000" />
+      <workItem from="1568616648339" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交.">
       <created>1568615348843</created>
@@ -663,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568615348843</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="完成了订单控制器的编写.">
+      <created>1568616916517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568616916518</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -699,7 +740,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197858000" />
+    <option name="totallyTimeSpent" value="198785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,9 +753,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.5042614" side_tool="true" weight="0.26979867" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49573863" visible="true" weight="0.20402685" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49573863" visible="true" weight="0.20671141" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -734,8 +776,8 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3224432" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32905984" />
-      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.42877492" />
+      <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32905984" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="16" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="17" weight="0.32954547" />
@@ -802,7 +844,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交." />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交." />
+    <MESSAGE value="完成了订单控制器的编写." />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了订单控制器的编写." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -824,14 +867,6 @@
     <SUITE FILE_PATH="coverage/springMyBatis$tomcat.ic" NAME="tomcat Coverage Results" MODIFIED="1567957514294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/uploadfiles/1568120964660_Personal.jpg" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/service/RoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/bdqn/service/UserServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1322,6 +1357,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/controller/BillController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bdqn/controller/TestController2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
