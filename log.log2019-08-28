@@ -1,0 +1,3 @@
+2019-8-28 11:33:15[ERROR](AroundLogger.java:41) findUserCount 方法发生异常：org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.bdqn.dao.UserMapper.selectCount
+2019-8-28 18:22:43[ERROR](AroundLogger.java:41) findUserCount 方法发生异常：org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.bdqn.dao.UserMapper.selectCount
+2019-8-28 18:31:04[ERROR](AroundLogger.java:41) findUserCount 方法发生异常：org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): com.bdqn.dao.UserMapper.selectCount

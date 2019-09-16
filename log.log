@@ -1,0 +1,6 @@
+2019-8-30 09:35:11[ERROR](AroundLogger.java:41) finderUsers 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-30 09:35:23[ERROR](AroundLogger.java:41) findUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-30 10:29:48[ERROR](AroundLogger.java:41) findUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-30 10:31:26[ERROR](AroundLogger.java:41) findUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-30 10:33:17[ERROR](AroundLogger.java:41) findUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-30 10:34:33[ERROR](AroundLogger.java:41) findUserByUserName 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role

@@ -1,0 +1,7 @@
+2019-8-29 15:57:49[ERROR](AroundLogger.java:41) addUser 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 15:59:24[ERROR](AroundLogger.java:41) addUser 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 15:59:44[ERROR](AroundLogger.java:41) addUser 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 15:59:53[ERROR](AroundLogger.java:41) findUserAddressByUserId 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 16:22:19[ERROR](AroundLogger.java:41) delUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 16:24:10[ERROR](AroundLogger.java:41) delUserById 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
+2019-8-29 16:24:44[ERROR](AroundLogger.java:41) addUser 方法发生异常：org.apache.ibatis.builder.IncompleteElementException: Could not find result map com.bdqn.dao.RoleMapper.Role
