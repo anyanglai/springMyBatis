@@ -7,365 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e737f18-f63c-4706-9c63-d0c97d68ece0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.rebel-remote.xml.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springMyBatis_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.log2019-08-28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log.log2019-08-29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/META-INF/springMyBatis.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/aop/AroundLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/ProviderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/UploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/controller/UserTestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/dao/BillMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/dao/ProviderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/exception/BusinessException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/exception/CommonError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/exception/EnumBusinessError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/filter/CharSetFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/Provider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/pojo/vo/UserVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/response/CommonReturnType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/BillService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/ProviderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/impl/BillServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/impl/ProviderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/utils/constant/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/com/bdqn/utils/page/PageResultBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/mapper/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/mapper/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/rebel-remote.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/rebel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/spring/applicationContext-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/common/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/common/rollpage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/course_admin/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/course_admin/file.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/course_admin/multifile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/course_admin/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/provider/provideradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/provider/providerlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/provider/providermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/user/userView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/user/useradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/jsp/user/usermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/aspectjweaver-1.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/commons-pool-1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/fastjson-1.2.54.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/jackson-core-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/jackson-databind-2.9.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/jsqlparser-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/pagehelper-5.1.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/b8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/springMyBatis_war_exploded/statics/js/userview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMyBatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/aop/AroundLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/ProviderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/UploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/controller/UserTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/dao/BillMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/dao/ProviderMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/dao/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/dao/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/dao/impl/UserMapperImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/exception/BusinessException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/exception/CommonError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/exception/EnumBusinessError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/exception/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/filter/CharSetFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/Bill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/Provider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/pojo/vo/UserVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/response/CommonReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/BillService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/ProviderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/BillServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/ProviderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/utils/constant/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bdqn/utils/page/PageResultBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/rebel-remote.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/rebel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/foot.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/common/rollpage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/course_admin/edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/course_admin/file.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/course_admin/multifile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/course_admin/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/frame.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/provider/provideradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/provider/providerlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/provider/providermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/test.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/userView.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/useradd.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/userlist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user/usermodify.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/My97DatePicker.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/WdatePicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/lang/zh-tw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/WdatePicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/datePicker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/default/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/default/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/whyGreen/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/whyGreen/datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/calendar/skin/whyGreen/img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/public.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/css/style1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/b8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/buy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/formBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/gys.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/leftBg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/loginBg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/login_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/read.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/schu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/tc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/tianjia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/xiugai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/y.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/yh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/images/zd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/billadd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/billlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/billmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/billview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/jquery-1.8.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/provideradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/providerlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/providermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/providerview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/pwdmodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/rollpage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/useradd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/userlist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/usermodify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/statics/js/userview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bdqn/service/RoleServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bdqn/service/UserServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/springMyBatis.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/aop/AroundLogger.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/ProviderController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/UploadController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/controller/UserTestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/dao/BillMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/dao/ProviderMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/dao/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/dao/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/exception/BusinessException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/exception/CommonError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/exception/EnumBusinessError.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/filter/CharSetFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/Address.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/Bill.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/Provider.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/pojo/vo/UserVO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/response/CommonReturnType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/BillService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/ProviderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/impl/BillServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/impl/ProviderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/utils/constant/Constants.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/bdqn/utils/page/PageResultBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/database.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/BillMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ProviderMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/rebel-remote.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/rebel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-aop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-dao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/springmvc/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/bdqn/service/RoleServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -512,13 +154,6 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="400" />
     <option name="y" value="50" />
@@ -539,6 +174,11 @@
             <path>
               <item name="springMyBatis" type="b2602c69:ProjectViewProjectNode" />
               <item name="springMyBatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springMyBatis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springMyBatis" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springMyBatis" type="b2602c69:ProjectViewProjectNode" />
@@ -595,7 +235,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -1014,8 +654,16 @@
       <workItem from="1568190207188" duration="104000" />
       <workItem from="1568191008134" duration="5724000" />
       <workItem from="1568248127840" duration="599000" />
-      <workItem from="1568613367399" duration="1748000" />
+      <workItem from="1568613367399" duration="2964000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交.">
+      <created>1568615348843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568615348843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1051,7 +699,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196642000" />
+    <option name="totallyTimeSpent" value="197858000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1066,7 +714,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.5042614" side_tool="true" weight="0.26979867" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49573863" visible="true" weight="0.20402685" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49573863" visible="true" weight="0.20402685" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -1086,7 +734,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3224432" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32954547" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="bottom" id="JRebel remote servers log" order="16" side_tool="true" />
@@ -1141,6 +789,20 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交." />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
